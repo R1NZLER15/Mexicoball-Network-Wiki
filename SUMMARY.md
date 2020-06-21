@@ -16,5 +16,9 @@
 
 ## FAQ
 
-* [Preguntas frequentes](faq/preguntas-frequentes.md)
+* [FAQ: Cuentas](faq/preguntas-frequentes.md)
+* [FAQ: Rangos VIP](faq/faq-rangos-vip.md)
+* [FAQ: Servidores](faq/faq-servidores/README.md)
+  * [FAQ: Survival](faq/faq-servidores/faq-survival.md)
+  * [FAQ: Kingdoms](faq/faq-servidores/faq-kingdoms.md)
 
