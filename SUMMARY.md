@@ -14,7 +14,7 @@
 * [Reglas](reglas/reglas.md)
 * [Sanciones](reglas/sanciones.md)
 
-## FAQ
+## FAQ \| Preguntas Frecuentes <a id="faq"></a>
 
 * [FAQ: Cuentas](faq/preguntas-frequentes.md)
 * [FAQ: Rangos VIP](faq/faq-rangos-vip.md)
