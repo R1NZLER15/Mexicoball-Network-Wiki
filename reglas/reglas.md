@@ -11,7 +11,7 @@
 * [Construcción](reglas.md#apartado-construccion)
 * [Discord](reglas.md#apartado-discord)
 
-## Apartado: Cuentas
+## Apartado: General
 
 <table>
   <thead>
@@ -39,14 +39,14 @@
     <tr>
       <td style="text-align:left">2</td>
       <td style="text-align:left">Suplantaci&#xF3;n.</td>
-      <td style="text-align:left">No se permite hacerse pasar por alg&#xFA;n jugador o miembro de la administraci&#xF3;n.</td>
-      <td
-      style="text-align:left">
+      <td style="text-align:left">No se permite hacerse pasar por alg&#xFA;n jugador o miembro de la administraci&#xF3;n
+        ya sea cambiandose el nickname o el skin.</td>
+      <td style="text-align:left">
         <p>Suplantar jugador: Baja</p>
         <p></p>
         <p>Suplantar miembro de la administraci&#xF3;n: Moderada</p>
-        </td>
-        <td style="text-align:left"></td>
+      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
@@ -106,6 +106,14 @@
       style="text-align:left">Media</td>
         <td style="text-align:left">Si eres jugador <em>premium</em> tendr&#xE1;s que <a href="https://tienda.mxball.net">pagar</a> para
           que se migren los datos de tu cuenta anterior a la nueva.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">Bugs y glitches.</td>
+      <td style="text-align:left">Se proh&#xED;be hacer uso de bugs o glitches para obtener una ventaja
+        sobre los dem&#xE1;s jugadores.</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Reporta cualquier bug o glitch que encuentres a los <a href="https://discord.mxball.net">miembros de la administraci&#xF3;n</a>.</td>
     </tr>
   </tbody>
 </table>
