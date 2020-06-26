@@ -6,7 +6,10 @@
 
 * [Cuentas](reglas.md#apartado-cuentas)
 * [Chat](reglas.md#apartado-chat)
-  * Aclaraciones
+  * [Aclaraciones](reglas.md#aclaraciones)
+* [Convivencia](reglas.md#apartado-convivencia)
+* [Construcción](reglas.md#apartado-construccion)
+* [Discord](reglas.md#apartado-discord)
 
 ## Apartado: Cuentas
 
