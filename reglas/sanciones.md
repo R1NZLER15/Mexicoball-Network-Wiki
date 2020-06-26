@@ -73,12 +73,26 @@ Ban
 {% tabs %}
 {% tab title="1er quebrantamiento" %}
 {% hint style="warning" %}
+Procedimiento de infracciones:  
+La cuenta del jugador será baneada por máximo 15 días.
 
+Ban \(máx. 15d\).
 {% endhint %}
 {% endtab %}
 
 {% tab title="2do quebrantamiento" %}
+{% hint style="danger" %}
+Procedimiento de infracciones:  
+La cuenta del jugador será baneada permanentemente.
 
+Ban.
+{% endhint %}
 {% endtab %}
 {% endtabs %}
+
+## Infracción severa
+
+{% hint style="danger" %}
+IP BAN
+{% endhint %}
 
