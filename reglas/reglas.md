@@ -112,7 +112,7 @@
       <td style="text-align:left">Bugs y glitches.</td>
       <td style="text-align:left">Se proh&#xED;be hacer uso de bugs o glitches para obtener una ventaja
         sobre los dem&#xE1;s jugadores.</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Alta</td>
       <td style="text-align:left">Reporta cualquier bug o glitch que encuentres a los <a href="https://discord.mxball.net">miembros de la administraci&#xF3;n</a>.</td>
     </tr>
   </tbody>
