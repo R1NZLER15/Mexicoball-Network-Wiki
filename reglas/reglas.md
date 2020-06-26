@@ -1,9 +1,12 @@
 # Reglas
 
+## "Usa el sentido común. Si sabes que está mal, no lo hagas."
+
 ## Índice
 
 * [Cuentas](reglas.md#apartado-cuentas)
 * [Chat](reglas.md#apartado-chat)
+  * Aclaraciones
 
 ## Apartado: Cuentas
 
@@ -53,7 +56,7 @@
     <tr>
       <td style="text-align:left">4</td>
       <td style="text-align:left">Skins inapropiados.</td>
-      <td style="text-align:left">No se permite entrar al servidor usando skins expl&#xED;citas.</td>
+      <td style="text-align:left">No se permite entrar al servidor usando skins expl&#xED;citos.</td>
       <td
       style="text-align:left">Moderada</td>
         <td style="text-align:left"></td>
@@ -85,17 +88,21 @@
     </tr>
     <tr>
       <td style="text-align:left">7</td>
-      <td style="text-align:left">Uso de m&#xFA;ltiples cuentas</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Uso de m&#xFA;ltiples cuentas.</td>
+      <td style="text-align:left">Se proh&#xED;be usar m&#xFA;ltiples cuentas bajo la misma red.</td>
+      <td
+      style="text-align:left">Severa</td>
+        <td style="text-align:left">Se dar&#xE1; permiso especial a jugadores que jueguen con familiares/amigos
+          bajo la misma red.</td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
-      <td style="text-align:left">Cambio de nombre/cuenta</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Cambio de nombre/cuenta.</td>
+      <td style="text-align:left">Se proh&#xED;be el cambio de nombre/cuenta sin autorizaci&#xF3;n previa.</td>
+      <td
+      style="text-align:left">Media</td>
+        <td style="text-align:left">Si eres jugador <em>premium</em> tendr&#xE1;s que <a href="https://tienda.mxball.net">pagar</a> para
+          que se migren los datos de tu cuenta anterior a la nueva.</td>
     </tr>
   </tbody>
 </table>
@@ -104,12 +111,89 @@
 
 | No. | Regla | Descripción | Limites | Tipo de infracción | Nota |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Spam |  |  |  |  |
-| 2 | Flood. |  |  |  |  |
-| 3 | Mayusculas. |  |  |  |  |
-| 7 | Palabras soeces. |  |  |  |  |
-| 8 | Publicidad. |  |  |  |  |
-| 9 |  |  |  |  |  |
+| 1 | Spam. | Se prohíbe interrumpir el chat con mensajes extensos o repetitivos. |  | Baja \(Mute\) | Ver [aclaraciones](reglas.md#aclaraciones). |
+| 2 | Flood. | Se prohíbe obstruir el chat enviando mensajes con caracteres extensamente repetidos. |  | Baja \(Mute\) | Ver [aclaraciones](reglas.md#aclaraciones). |
+| 3 | Mayúsculas. | Se limita el uso de mayúsculas en los mensajes del chat. |  | Baja \(Mute\) | Ver [aclaraciones](reglas.md#aclaraciones). |
+| 7 | Palabras soeces. | Se permite el uso de palabras soeces pero se limita su uso al momento de dirigir la palabra a otro jugador. |  | Baja \(Mute\) | El hecho de que te lleves pesado con tus amigos no significa que puedas hacerlo con cualquier jugador, respeta y hazte respetar. |
+| 8 | Respeto | Se prohíbe faltarle al respeto a los miembros de la administración o jugadores que exijan ser respetados. |  | Media \(Mute\) |  |
+| 9 | Publicidad. | Se prohíbe promocionar otros servidores o productos sin consentimiento previo por parte de los Owners. |  | Severa |  |
+| 10 | Doxxeo | Se prohíbe filtrar datos personales de otros jugadores o miembros de la administración |  | Severa |  |
 
+### Aclaraciones
 
+#### Spam 
+
+Los siguientes ejemplos se pueden considerar como spam:
+
+{% hint style="warning" %}
+* Cualquier tipo de **copypasta** \(Textos extensos copiados y pegados a través del internet\)
+* Enviar mensajes de poca relevancia en **reiteradas ocasiones** y en un **corto intervalo de tiempo**: "Vengan a mi tienda, vendemos X material a X precio"
+* Abusar de las mecanicas del servidor para obstruir el chat:
+  * Suicidarse
+  * Promocionar una tienda \(/ds\)
+  * Salir y entrar al servidor
+{% endhint %}
+
+#### Flood
+
+Los siguientes ejemplos se pueden considerar como flood:
+
+{% hint style="warning" %}
+* "Holaaaaaaaaaaaaaaaaaaaaaaaaaaa" Ref: **img\_1**
+* "AAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+* "AYUDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+* "A" "A" "A" "A"
+{% endhint %}
+
+![img\_1](../.gitbook/assets/imagen.png)
+
+#### Mayúsculas
+
+Se permite el uso de mayúsculas en los siguientes casos:
+
+{% hint style="success" %}
+* Al mencionar un jugador:
+  * "JUANITOOO!!!!!"
+* Al enviar palabras simples o cortas: 
+  * "AYUDA"
+  * "SI"
+  * "WTF"
+  * "ALV"
+  * "XD"
+  * "LOOOL"
+{% endhint %}
+
+No se permite el uso de mayúsculas en los siguientes casos:
+
+{% hint style="danger" %}
+* Al formar oraciones completas:
+  * "¿¿HOLA COMO ESTAN??"
+  * "¿COMO CONSIGO UNA RESIDENCIA?"
+{% endhint %}
+
+## Apartado: Convivencia
+
+| No. | Regla | Descripción | Tipo de infracción | Nota |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Acoso | Se prohíbe cualquier tipo de acoso hacia los jugadores o miembros de la administración ya sea dentro o fuera de nuestros servidores. | Severa |  |
+| 2 | Spawnkill | Se prohíbe matar a los jugadores repetidamente en sus puntos de spawn o campear fuera de sus propiedades para matarlos | Media \(Cárcel\) | Despues de 3 muertes consecutivas los asesinatos comienzan a contar como spawnkill. |
+| 3 | Pedir cosas | Se prohíbe pedir items o favores a los miembros de la administración | Baja \(Mute\) |  |
+| 4 | Pedir rangos | Se prohíbe pedir rangos a los miembros de la administración | Alta \(Mute\) |  |
+
+## Apartado: Construcción
+
+| No. | Regla | Descripción | Tipo de infracción | Nota |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Construcciones inapropiadas | Se prohíbe la construcción de estructuras de carácter explícito o simbología que incite al odio. | Media \(Cárcel\) |  |
+| 2 | Grifeo/Vandalismo | Se prohíbe la destrucción deliberada de estructuras construidas por otros jugadores ya estén protegidas o no | Alta \(Cárcel\) | Destruir areas cerca de las propiedades de los demás jugadores también cuenta como vandalismo. |
+| 3 | Obstrucción de propiedades/portales | Se prohíbe la creación de propiedades con intención de obstruir otras propiedades o limitar acceso a ciertos puntos | Media \(Cárcel\) |  |
+
+## Apartado: Discord
+
+* El servidor de chat se rige bajo las [\[Directivas\]](https://discordapp.com/guidelines) y [\[Términos de Servicio\]](https://discordapp.com/terms) de Discord.
+  * Prohibido Compartir información personal de algún jugador o miembro del staff.
+  * Prohibido compartir contenido que viole el DMCA \(Piratería\).
+  * Prohibido subir contenido pornográfico a canales que no tengan el filtro NSFW.
+* Cualquier forma de publicidad está estrictamente prohibida a menos que se tenga permiso de los Owners.
+* Respeta la temática de cada canal.
 
