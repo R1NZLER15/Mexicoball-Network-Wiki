@@ -188,7 +188,7 @@ No se permite el uso de mayúsculas en los siguientes casos:
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | Acoso | Se prohíbe cualquier tipo de acoso hacia los jugadores o miembros de la administración ya sea dentro o fuera de nuestros servidores. | Severa |  |
 | 2 | Spawnkill | Se prohíbe matar a los jugadores repetidamente en sus puntos de spawn o campear fuera de sus propiedades para matarlos | Media \(Cárcel\) | Despues de 3 muertes consecutivas los asesinatos comienzan a contar como spawnkill. |
-| 3 | Pedir cosas | Se prohíbe pedir items o favores a los miembros de la administración | Baja \(Mute\) |  |
+| 3 | Pedir cosas | Se prohíbe pedir items a los miembros de la administración | Baja \(Mute\) |  |
 | 4 | Pedir rangos | Se prohíbe pedir rangos a los miembros de la administración | Alta \(Mute\) |  |
 
 ## Apartado: Construcción
