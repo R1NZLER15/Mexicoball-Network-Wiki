@@ -32,7 +32,7 @@
       <td style="text-align:left">
         <p>Cuentas nuevas: Alta</p>
         <p></p>
-        <p>Cuentas existentes: Baja</p>
+        <p>Cuentas existentes: Baja (Mute)</p>
       </td>
       <td style="text-align:left">Soez: Palabra de cualidad vulgar.</td>
     </tr>
@@ -42,7 +42,7 @@
       <td style="text-align:left">No se permite hacerse pasar por alg&#xFA;n jugador o miembro de la administraci&#xF3;n
         ya sea cambiandose el nickname o el skin.</td>
       <td style="text-align:left">
-        <p>Suplantar jugador: Baja</p>
+        <p>Suplantar jugador: Baja (C&#xE1;rcel)</p>
         <p></p>
         <p>Suplantar miembro de la administraci&#xF3;n: Moderada</p>
       </td>
@@ -53,7 +53,7 @@
       <td style="text-align:left">Nombres/nicknames extensos.</td>
       <td style="text-align:left">No se permite usar caracteres repetidos en nicknames con intenci&#xF3;n
         de sobresalir en el chat.</td>
-      <td style="text-align:left">Baja</td>
+      <td style="text-align:left">Baja (Mute)</td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
