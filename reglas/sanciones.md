@@ -93,6 +93,8 @@ Ban.
 ## Infracción severa
 
 {% hint style="danger" %}
-IP BAN
+La IP de la cuenta del jugador será baneada permanentemente.
+
+* No se podrá apelar en caso de ser baneado por incurrir en una violación a las reglas de carácter severo.
 {% endhint %}
 
