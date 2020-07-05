@@ -93,7 +93,7 @@ description: 'Último cambio: 04/07/2020'
               <li>Modificaciones est&#xE9;ticas</li>
             </ul>
           </li>
-          <li>Solo se permite el uso de shaders/optifine en kingdoms</li>
+          <li>En Kingdoms solo se permite el uso de shaders/optifine</li>
         </ul>
       </td>
     </tr>
