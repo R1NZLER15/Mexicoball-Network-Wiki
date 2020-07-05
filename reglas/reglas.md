@@ -150,10 +150,17 @@ Los siguientes ejemplos se pueden considerar como spam:
 * Abusar de las mecanicas del servidor para obstruir el chat:
   * Suicidarse
   * Promocionar una tienda \(/ds\)
-  * Salir y entrar al servidor
+  * Salir y entrar del servidor
 {% endhint %}
 
 #### Flood
+
+Los siguientes ejemplos no se consideran como flood:
+
+{% hint style="success" %}
+* "Carcajadas"
+  * Jugador\_1: jaskdjskd Jugador\_2: jkasjkj Jugador\_3: JAJAJAJAJ
+{% endhint %}
 
 Los siguientes ejemplos se pueden considerar como flood:
 
