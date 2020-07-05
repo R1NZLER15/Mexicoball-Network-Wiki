@@ -84,12 +84,16 @@ description: 'Último cambio: 04/07/2020'
         servidores.</td>
       <td style="text-align:left">Severa</td>
       <td style="text-align:left">
-        <p>Se permiten mods como:</p>
         <ul>
-          <li>Mini-mapas</li>
-          <li>Shaders</li>
-          <li>Gu&#xED;as de crafteo</li>
-          <li>Modificaciones est&#xE9;ticas</li>
+          <li>Se permiten mods como:
+            <ul>
+              <li>Mini-mapas</li>
+              <li>Shaders</li>
+              <li>Gu&#xED;as de crafteo</li>
+              <li>Modificaciones est&#xE9;ticas</li>
+            </ul>
+          </li>
+          <li>Solo se permite el uso de shaders/optifine en kingdoms</li>
         </ul>
       </td>
     </tr>
