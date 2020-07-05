@@ -130,9 +130,9 @@ description: 'Último cambio: 04/07/2020'
 | 2 | Flood. | Se prohíbe obstruir el chat enviando mensajes con caracteres extensamente repetidos. |  | Baja \(Mute\) | Ver [aclaraciones](reglas.md#aclaraciones). |
 | 3 | Mayúsculas. | Se limita el uso de mayúsculas en los mensajes del chat. |  | Baja \(Mute\) | Ver [aclaraciones](reglas.md#aclaraciones). |
 | 7 | Palabras soeces. | Se permite el uso de palabras soeces pero se limita su uso al momento de dirigir la palabra a otro jugador. |  | Baja \(Mute\) | El hecho de que te lleves pesado con tus amigos no significa que puedas hacerlo con cualquier jugador, respeta y hazte respetar. |
-| 8 | Respeto | Se prohíbe faltarle al respeto a los miembros de la administración o jugadores que exijan ser respetados. |  | Media \(Mute\) |  |
+| 8 | Respeto. | Se prohíbe faltarle al respeto a los miembros de la administración o jugadores que exijan ser respetados. |  | Media \(Mute\) |  |
 | 9 | Publicidad. | Se prohíbe promocionar otros servidores o productos sin consentimiento previo por parte de los Owners. |  | Severa |  |
-| 10 | Doxxeo | Se prohíbe filtrar datos personales de otros jugadores o miembros de la administración |  | Severa |  |
+| 10 | Doxxeo. | Se prohíbe filtrar datos personales de otros jugadores o miembros de la administración |  | Severa |  |
 
 ### Aclaraciones
 
@@ -190,10 +190,10 @@ No se permite el uso de mayúsculas en los siguientes casos:
 
 | No. | Regla | Descripción | Tipo de infracción | Nota |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | Acoso | Se prohíbe cualquier tipo de acoso hacia los jugadores o miembros de la administración ya sea dentro o fuera de nuestros servidores. | Severa |  |
-| 2 | Spawnkill | Se prohíbe matar a los jugadores repetidamente en sus puntos de spawn o campear fuera de sus propiedades para matarlos | Media \(Cárcel\) | Despues de 3 muertes consecutivas los asesinatos comienzan a contar como spawnkill. |
-| 3 | Pedir cosas | Se prohíbe pedir items a los miembros de la administración | Baja \(Mute\) |  |
-| 4 | Pedir rangos | Se prohíbe pedir rangos a los miembros de la administración | Alta \(Mute\) |  |
+| 1 | Acoso. | Se prohíbe cualquier tipo de acoso hacia los jugadores o miembros de la administración ya sea dentro o fuera de nuestros servidores. | Severa |  |
+| 2 | Spawnkill. | Se prohíbe matar a los jugadores repetidamente en sus puntos de spawn o campear fuera de sus propiedades para matarlos | Media \(Cárcel\) | Después de 3 muertes consecutivas los asesinatos comienzan a contar como spawnkill. |
+| 3 | Pedir cosas. | Se prohíbe pedir items a los miembros de la administración | Baja \(Mute\) |  |
+| 4 | Pedir rangos. | Se prohíbe pedir rangos a los miembros de la administración | Alta \(Mute\) |  |
 
 ## Apartado: Construcción
 
@@ -210,7 +210,7 @@ No se permite el uso de mayúsculas en los siguientes casos:
   <tbody>
     <tr>
       <td style="text-align:left">1</td>
-      <td style="text-align:left">Construcciones inapropiadas</td>
+      <td style="text-align:left">Construcciones inapropiadas.</td>
       <td style="text-align:left">Se proh&#xED;be la construcci&#xF3;n de estructuras de car&#xE1;cter expl&#xED;cito
         o simbolog&#xED;a que incite al odio.</td>
       <td style="text-align:left">Media (C&#xE1;rcel)</td>
@@ -218,18 +218,24 @@ No se permite el uso de mayúsculas en los siguientes casos:
     </tr>
     <tr>
       <td style="text-align:left">2</td>
-      <td style="text-align:left">Grifeo/Vandalismo</td>
+      <td style="text-align:left">Grifeo/Vandalismo.</td>
       <td style="text-align:left">Se proh&#xED;be la destrucci&#xF3;n deliberada de estructuras construidas
-        por otros jugadores ya est&#xE9;n protegidas o no</td>
+        por otros jugadores ya est&#xE9;n protegidas o no.</td>
       <td style="text-align:left">Alta (C&#xE1;rcel)</td>
-      <td style="text-align:left">Destruir &#xE1;reas cerca de las propiedades de los dem&#xE1;s jugadores
-        tambi&#xE9;n cuenta como vandalismo (30 bloques).</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Destruir &#xE1;reas cerca de las propiedades de los dem&#xE1;s jugadores
+            tambi&#xE9;n cuenta como vandalismo (30 bloques).</li>
+          <li>Si tu propiedad tiene los permisos mal configurados y alguien se aprovecha
+            de eso, no estar&#xE1;s respaldado por esta regla.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">3</td>
-      <td style="text-align:left">Obstrucci&#xF3;n de propiedades/portales</td>
+      <td style="text-align:left">Obstrucci&#xF3;n de propiedades/portales.</td>
       <td style="text-align:left">Se proh&#xED;be la creaci&#xF3;n de propiedades con intenci&#xF3;n de
-        obstruir otras propiedades o limitar acceso a ciertos puntos</td>
+        obstruir otras propiedades o limitar acceso a ciertos puntos.</td>
       <td style="text-align:left">Media (C&#xE1;rcel)</td>
       <td style="text-align:left">
         <p></p>
@@ -238,10 +244,10 @@ No se permite el uso de mayúsculas en los siguientes casos:
     </tr>
     <tr>
       <td style="text-align:left">4</td>
-      <td style="text-align:left">Relojes/Mecanismos intermitentes</td>
+      <td style="text-align:left">Relojes/Mecanismos intermitentes.</td>
       <td style="text-align:left">Se proh&#xED;be la creaci&#xF3;n de relojes de redstone o mecanismos de
-        encendido/apagado repido</td>
-      <td style="text-align:left">Media(Carcel)</td>
+        encendido/apagado r&#xE1;pido.</td>
+      <td style="text-align:left">Media(C&#xE1;rcel)</td>
       <td style="text-align:left">Hay excepciones a esta regla, se pueden hacer este tipo de mecanismos
         siempre y cuando funcionen de forma lenta.</td>
     </tr>
