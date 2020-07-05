@@ -19,7 +19,7 @@ IMPORTANTE:
 Procedimiento de infracciones:  
 El jugador será advertido 3 veces antes de aplicar un mute o cárcel de máximo 30 minutos.
 
-Advertencia **&gt;** Advertencia **&gt;** Advertencia **&gt;** Mute/Cárcel \(30m.\)
+Advertencia **&gt;** Advertencia **&gt;** Advertencia **&gt;** Mute/Cárcel \(máx 30m.\)
 {% endhint %}
 {% endtab %}
 
