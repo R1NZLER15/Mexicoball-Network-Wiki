@@ -17,7 +17,7 @@ IMPORTANTE:
 {% tab title="1er quebrantamiento" %}
 {% hint style="info" %}
 Procedimiento de infracciones:  
-El jugador será advertido 3 veces antes de aplicar un mute o cárcel de 30 minutos.
+El jugador será advertido 3 veces antes de aplicar un mute o cárcel de máximo 30 minutos.
 
 Advertencia **&gt;** Advertencia **&gt;** Advertencia **&gt;** Mute/Cárcel \(30m.\)
 {% endhint %}
