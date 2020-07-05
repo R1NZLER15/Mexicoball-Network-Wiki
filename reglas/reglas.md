@@ -193,11 +193,56 @@ No se permite el uso de mayúsculas en los siguientes casos:
 
 ## Apartado: Construcción
 
-| No. | Regla | Descripción | Tipo de infracción | Nota |
-| :--- | :--- | :--- | :--- | :--- |
-| 1 | Construcciones inapropiadas | Se prohíbe la construcción de estructuras de carácter explícito o simbología que incite al odio. | Media \(Cárcel\) |  |
-| 2 | Grifeo/Vandalismo | Se prohíbe la destrucción deliberada de estructuras construidas por otros jugadores ya estén protegidas o no | Alta \(Cárcel\) | Destruir areas cerca de las propiedades de los demás jugadores también cuenta como vandalismo. |
-| 3 | Obstrucción de propiedades/portales | Se prohíbe la creación de propiedades con intención de obstruir otras propiedades o limitar acceso a ciertos puntos | Media \(Cárcel\) |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">No.</th>
+      <th style="text-align:left">Regla</th>
+      <th style="text-align:left">Descripci&#xF3;n</th>
+      <th style="text-align:left">Tipo de infracci&#xF3;n</th>
+      <th style="text-align:left">Nota</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">Construcciones inapropiadas</td>
+      <td style="text-align:left">Se proh&#xED;be la construcci&#xF3;n de estructuras de car&#xE1;cter expl&#xED;cito
+        o simbolog&#xED;a que incite al odio.</td>
+      <td style="text-align:left">Media (C&#xE1;rcel)</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">Grifeo/Vandalismo</td>
+      <td style="text-align:left">Se proh&#xED;be la destrucci&#xF3;n deliberada de estructuras construidas
+        por otros jugadores ya est&#xE9;n protegidas o no</td>
+      <td style="text-align:left">Alta (C&#xE1;rcel)</td>
+      <td style="text-align:left">Destruir &#xE1;reas cerca de las propiedades de los dem&#xE1;s jugadores
+        tambi&#xE9;n cuenta como vandalismo (30 bloques).</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">Obstrucci&#xF3;n de propiedades/portales</td>
+      <td style="text-align:left">Se proh&#xED;be la creaci&#xF3;n de propiedades con intenci&#xF3;n de
+        obstruir otras propiedades o limitar acceso a ciertos puntos</td>
+      <td style="text-align:left">Media (C&#xE1;rcel)</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Los portales al End aplican para esta regla.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4</td>
+      <td style="text-align:left">Relojes/Mecanismos intermitentes</td>
+      <td style="text-align:left">Se proh&#xED;be la creaci&#xF3;n de relojes de redstone o mecanismos de
+        encendido/apagado repido</td>
+      <td style="text-align:left">Media(Carcel)</td>
+      <td style="text-align:left">Hay excepciones a esta regla, se pueden hacer este tipo de mecanismos
+        siempre y cuando funcionen de forma lenta.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Apartado: Discord
 
