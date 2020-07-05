@@ -232,6 +232,7 @@ No se permite el uso de mayúsculas en los siguientes casos:
             tambi&#xE9;n cuenta como vandalismo (30 bloques).</li>
           <li>Si tu propiedad tiene los permisos mal configurados y alguien se aprovecha
             de eso, no estar&#xE1;s respaldado por esta regla.</li>
+          <li>Importante: <b>El robo est&#xE1; permitido</b>.</li>
         </ul>
       </td>
     </tr>
