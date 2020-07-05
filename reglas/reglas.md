@@ -1,3 +1,7 @@
+---
+description: 'Último cambio: 04/07/2020'
+---
+
 # Reglas
 
 ## "Usa el sentido común. Si sabes que está mal, no lo hagas."
