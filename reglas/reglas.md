@@ -1,5 +1,5 @@
 ---
-description: 'Último cambio: 04/07/2020'
+description: 'Último cambio: 17/07/2020'
 ---
 
 # Reglas
@@ -128,15 +128,90 @@ description: 'Último cambio: 04/07/2020'
 
 ## Apartado: Chat
 
-| No. | Regla | Descripción | Limites | Tipo de infracción | Nota |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Spam. | Se prohíbe interrumpir el chat con mensajes extensos o repetitivos. |  | Baja \(Mute\) | Ver [aclaraciones](reglas.md#aclaraciones). |
-| 2 | Flood. | Se prohíbe obstruir el chat enviando mensajes con caracteres extensamente repetidos. |  | Baja \(Mute\) | Ver [aclaraciones](reglas.md#aclaraciones). |
-| 3 | Mayúsculas. | Se limita el uso de mayúsculas en los mensajes del chat. |  | Baja \(Mute\) | Ver [aclaraciones](reglas.md#aclaraciones). |
-| 7 | Palabras soeces. | Se permite el uso de palabras soeces pero se limita su uso al momento de dirigir la palabra a otro jugador. |  | Baja \(Mute\) | El hecho de que te lleves pesado con tus amigos no significa que puedas hacerlo con cualquier jugador, respeta y hazte respetar. |
-| 8 | Respeto. | Se prohíbe faltarle al respeto a los miembros de la administración o jugadores que exijan ser respetados. |  | Media \(Mute\) |  |
-| 9 | Publicidad. | Se prohíbe promocionar otros servidores o productos sin consentimiento previo por parte de los Owners. |  | Severa |  |
-| 10 | Doxxeo. | Se prohíbe filtrar datos personales de otros jugadores o miembros de la administración |  | Severa |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">No.</th>
+      <th style="text-align:left">Regla</th>
+      <th style="text-align:left">Descripci&#xF3;n</th>
+      <th style="text-align:left">Limites</th>
+      <th style="text-align:left">Tipo de infracci&#xF3;n</th>
+      <th style="text-align:left">Nota</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left">Spam.</td>
+      <td style="text-align:left">Se proh&#xED;be interrumpir el chat con mensajes extensos o repetitivos.</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left">Baja (Mute)</td>
+        <td style="text-align:left">Ver <a href="reglas.md#aclaraciones">aclaraciones</a>.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left">Flood.</td>
+      <td style="text-align:left">Se proh&#xED;be obstruir el chat enviando mensajes con caracteres extensamente
+        repetidos.</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Baja (Mute)</td>
+      <td style="text-align:left">Ver <a href="reglas.md#aclaraciones">aclaraciones</a>.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left">May&#xFA;sculas.</td>
+      <td style="text-align:left">Se limita el uso de may&#xFA;sculas en los mensajes del chat.</td>
+      <td
+      style="text-align:left"></td>
+        <td style="text-align:left">Baja (Mute)</td>
+        <td style="text-align:left">Ver <a href="reglas.md#aclaraciones">aclaraciones</a>.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">7</td>
+      <td style="text-align:left">Palabras soeces.</td>
+      <td style="text-align:left">Se permite el uso de palabras soeces pero se limita su uso al momento
+        de dirigir la palabra a otro jugador.</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Baja (Mute)</td>
+      <td style="text-align:left">
+        <ul>
+          <li>El hecho de que te lleves pesado con tus amigos no significa que puedas
+            hacerlo con cualquier jugador, respeta y hazte respetar.</li>
+          <li>Obedece al staff si te piden que moderes tu lenguaje o te abstengas de
+            hacer comentarios inapropiados.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8</td>
+      <td style="text-align:left">Respeto.</td>
+      <td style="text-align:left">Se proh&#xED;be faltarle al respeto a los miembros de la administraci&#xF3;n
+        o jugadores que exijan ser respetados.</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Media (Mute)</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">9</td>
+      <td style="text-align:left">Publicidad.</td>
+      <td style="text-align:left">Se proh&#xED;be promocionar otros servidores o productos sin consentimiento
+        previo por parte de los Owners.</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Severa</td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10</td>
+      <td style="text-align:left">Doxxeo.</td>
+      <td style="text-align:left">Se proh&#xED;be filtrar datos personales de otros jugadores o miembros
+        de la administraci&#xF3;n</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">Severa</td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Aclaraciones
 
