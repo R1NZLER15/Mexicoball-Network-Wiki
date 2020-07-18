@@ -19,7 +19,7 @@ IMPORTANTE:
 Procedimiento de infracciones:  
 El jugador será advertido 3 veces antes de aplicar un mute o cárcel de máximo 30 minutos.
 
-Advertencia **&gt;** Advertencia **&gt;** Advertencia **&gt;** Mute/Cárcel \(máx 30m.\)
+Advertencia **&gt;** Advertencia **&gt;** Advertencia **&gt;** Mute/Cárcel \(máx 30m\)
 {% endhint %}
 {% endtab %}
 
@@ -28,7 +28,7 @@ Advertencia **&gt;** Advertencia **&gt;** Advertencia **&gt;** Mute/Cárcel \(m�
 Procedimiento de infracciones:  
 El jugador será advertido 1 vez antes de aplicar un mute o cárcel de máximo 5 horas.
 
-Advertencia **&gt;** Cárcel/Mute \(máx. 5h.\)
+Advertencia **&gt;** Cárcel/Mute \(máx. 5h\)
 {% endhint %}
 
 En caso de que el miembro de la administración lo vea necesario, este puede aplicar un ban temporal de máximo 7 días en vez de cárcel o mute.
@@ -52,7 +52,7 @@ Ban
 Procedimiento de infracciones:  
 El jugador será advertido 1 vez antes de aplicar un mute o cárcel de máximo 5 horas.
 
-Advertencia **&gt;** Cárcel/Mute \(máx. 5h.\)
+Advertencia **&gt;** Cárcel/Mute \(máx. 5h\)
 {% endhint %}
 
 En caso de que el miembro de la administración lo vea necesario, este puede aplicar un ban temporal de máximo 7 días en vez de cárcel o mute.
@@ -74,9 +74,9 @@ Ban
 {% tab title="1er quebrantamiento" %}
 {% hint style="warning" %}
 Procedimiento de infracciones:  
-La cuenta del jugador será baneada por máximo 15 días.
+La cuenta del jugador será baneada por máximo 15 días o encarcelada por máximo 12 horas.
 
-Ban \(máx. 15d\).
+Ban \(máx. 15d\)/Cárcel \(máx. 12h\).
 {% endhint %}
 {% endtab %}
 
