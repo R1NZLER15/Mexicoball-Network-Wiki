@@ -1,5 +1,5 @@
 ---
-description: 'Último cambio: 17/07/2020'
+description: 'Último cambio: 18/07/2020'
 ---
 
 # Reglas
@@ -122,6 +122,21 @@ description: 'Último cambio: 17/07/2020'
         sobre los dem&#xE1;s jugadores.</td>
       <td style="text-align:left">Alta</td>
       <td style="text-align:left">Reporta cualquier bug o glitch que encuentres a los <a href="https://discord.mxball.net">miembros de la administraci&#xF3;n</a>.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">10</td>
+      <td style="text-align:left">Encubrimiento</td>
+      <td style="text-align:left">Es obligatorio reportar a los jugadores que quebranten las reglas, hagan
+        evasi&#xF3;n de baneo o usen multicuentas.</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Encubrir jugadores: Media (Carcel)</li>
+          <li>Encubrir multicuentas: Alta (C&#xE1;rcel)</li>
+          <li>Encubrir baneados: Alta (Ban 30 d&#xED;as)</li>
+        </ul>
+      </td>
+      <td style="text-align:left">Esta regla se aplica solamente a quienes hayan encubierto a otros jugadores
+        intencionalmente.</td>
     </tr>
   </tbody>
 </table>
