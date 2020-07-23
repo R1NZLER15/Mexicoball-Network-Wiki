@@ -1,5 +1,5 @@
 ---
-description: 'Último cambio: 18/07/2020'
+description: 'Último cambio: 22/07/2020'
 ---
 
 # Reglas
