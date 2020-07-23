@@ -295,6 +295,7 @@ No se permite el uso de mayúsculas en los siguientes casos:
 | 2 | Spawnkill. | Se prohíbe matar a los jugadores repetidamente en sus puntos de spawn o campear fuera de sus propiedades para matarlos | Media \(Cárcel\) | Después de 3 muertes consecutivas los asesinatos comienzan a contar como spawnkill. |
 | 3 | Pedir cosas. | Se prohíbe pedir items a los miembros de la administración | Baja \(Mute\) |  |
 | 4 | Pedir rangos. | Se prohíbe pedir rangos a los miembros de la administración | Alta \(Mute\) |  |
+| 5. | Mención de jugadores baneados | Se prohíbe hacer mención o discutir abiertamente sobre jugadores baneados del servidor | Media \(Mute\) |  |
 
 ## Apartado: Construcción
 
@@ -364,4 +365,6 @@ No se permite el uso de mayúsculas en los siguientes casos:
   * Prohibido subir contenido pornográfico a canales que no tengan el filtro NSFW.
 * Cualquier forma de publicidad está estrictamente prohibida a menos que se tenga permiso de los Owners.
 * Respeta la temática de cada canal.
+* Estados:
+  * Prohibido hacer publicidad mediante esta funcion o tener mensajes inapropiados.
 
