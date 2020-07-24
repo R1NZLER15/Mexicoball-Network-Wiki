@@ -79,23 +79,24 @@ description: 'Último cambio: 22/07/2020'
     <tr>
       <td style="text-align:left">6</td>
       <td style="text-align:left">Modificaciones de cliente/Hacks.</td>
-      <td style="text-align:left">Se proh&#xED;be usar modificaciones de cliente que te pongan en ventaja
-        por sobre los dem&#xE1;s jugadores o atenten contra la integridad de nuestros
-        servidores.</td>
-      <td style="text-align:left">Severa</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Se permiten mods como:
-            <ul>
-              <li>Mini-mapas</li>
-              <li>Shaders</li>
-              <li>Gu&#xED;as de crafteo</li>
-              <li>Modificaciones est&#xE9;ticas</li>
-            </ul>
-          </li>
-          <li>En Kingdoms solo se permite el uso de shaders/optifine</li>
-        </ul>
-      </td>
+      <td style="text-align:left">Se proh&#xED;be usar modificaciones de cliente (ya sea software o alguna
+        modificaci&#xF3;n externa) que te pongan en ventaja por sobre los dem&#xE1;s
+        jugadores o atenten contra la integridad de nuestros servidores.</td>
+      <td
+      style="text-align:left">Severa</td>
+        <td style="text-align:left">
+          <ul>
+            <li>Se permiten mods como:
+              <ul>
+                <li>Mini-mapas</li>
+                <li>Shaders</li>
+                <li>Gu&#xED;as de crafteo</li>
+                <li>Modificaciones est&#xE9;ticas</li>
+              </ul>
+            </li>
+            <li>En Kingdoms solo se permite el uso de shaders/optifine</li>
+          </ul>
+        </td>
     </tr>
     <tr>
       <td style="text-align:left">7</td>
