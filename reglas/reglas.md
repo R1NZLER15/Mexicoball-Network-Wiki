@@ -8,7 +8,7 @@ description: 'Último cambio: 22/07/2020'
 
 ## Índice
 
-* [Cuentas](reglas.md#apartado-cuentas)
+* [General](reglas.md#apartado-cuentas)
 * [Chat](reglas.md#apartado-chat)
   * [Aclaraciones](reglas.md#aclaraciones)
 * [Convivencia](reglas.md#apartado-convivencia)
@@ -79,8 +79,8 @@ description: 'Último cambio: 22/07/2020'
     <tr>
       <td style="text-align:left">6</td>
       <td style="text-align:left">Modificaciones de cliente/Hacks.</td>
-      <td style="text-align:left">Se proh&#xED;be usar modificaciones de cliente que pongan en ventaja por
-        sobre los dem&#xE1;s jugadores o atenten contra la integridad de nuestros
+      <td style="text-align:left">Se proh&#xED;be usar modificaciones de cliente que te pongan en ventaja
+        por sobre los dem&#xE1;s jugadores o atenten contra la integridad de nuestros
         servidores.</td>
       <td style="text-align:left">Severa</td>
       <td style="text-align:left">
