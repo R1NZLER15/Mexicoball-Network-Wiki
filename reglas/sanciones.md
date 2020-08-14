@@ -9,6 +9,7 @@ IMPORTANTE:
 
 * Acumular 4 advertencias seguidas resultará en un ban de 30 días a tu cuenta.
 * Intentar evadir un ban resultará en una restricción de acceso desde tu IP a nuestros servidores \(IP ban\).
+* En caso de que el miembro de la administración lo vea necesario, este puede saltarse los procedimientos y aplicar un castigo directo.
 {% endhint %}
 
 ## Infracción Baja/Menor
