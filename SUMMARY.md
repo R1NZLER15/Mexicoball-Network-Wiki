@@ -14,6 +14,12 @@
 * [Reglas](reglas/reglas.md)
 * [Sanciones](reglas/sanciones.md)
 
+## Jerarquía y rangos <a id="rangos"></a>
+
+* [Rangos Administrativos](rangos/admin.md)
+* [Rangos VIP \(De paga\)](rangos/rangos-vip-de-paga.md)
+* [Jerarquía general](rangos/jerarquia.md)
+
 ## FAQ \| Preguntas Frecuentes <a id="faq"></a>
 
 * [FAQ: Cuentas](faq/preguntas-frequentes.md)
