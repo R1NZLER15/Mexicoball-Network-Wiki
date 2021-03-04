@@ -24,9 +24,9 @@ No, la versión base de nuestros servidores es Minecraft Java 1.16.5\*
 
 Para enlazar tus cuentas deberás tener acceso a ambas cuentas de lo contrario no podrás seguir el procedimiento.
 
-1. Inicia sesión desde tu cuenta de Java y desde cualquier servidor "**Lobby**" usa el comando:  **`/linkaccount <Cuenta de Bedrock>`**
+1. Inicia sesión desde tu cuenta de Java y desde cualquier servidor "**Lobby**" usa el comando:  **`/linkaccount <Cuenta de BEDROCK>`**
 2. Después de ejecutar el comando recibirás un código, el cuál adjuntarás al final del comando.
-3. Entra al servidor desde tu cuenta de Bedrock y ejecuta el mismo comando pero con el código adjunto al final \(Sí, desde el "**Lobby**"\): **`/linkaccount <Cuenta de Bedrock> <Código>`**
+3. Entra al servidor desde tu cuenta de Bedrock y ejecuta el mismo comando pero con el código adjunto al final \(Sí, desde el "**Lobby**"\): **`/linkaccount <Cuenta de JAVA> <Código>`**
 4. Serás expulsado del servidor, cuando vuelvas a entrar el proceso habrá terminado.
 
 
