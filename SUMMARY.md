@@ -28,9 +28,9 @@
 
 ## FAQ \| Preguntas Frecuentes <a id="faq"></a>
 
-* [FAQ: Cuentas](faq/faq-cuentas.md)
-* [FAQ: Rangos VIP](faq/faq-rangos-vip.md)
-* [FAQ: Servidores](faq/faq-servidores/README.md)
-  * [FAQ: Survival](faq/faq-servidores/faq-survival.md)
+* [FAQ: Cuentas](faq/cuentas.md)
+* [FAQ: Rangos VIP](faq/rangos-vip.md)
+* [FAQ: Servidores](faq/servidores/README.md)
+  * [FAQ: Survival](faq/servidores/survival.md)
 * [FAQ: Minecraft Bedrock/MC:PE](faq/minecraft-bedrock-mc-pe.md)
 
