@@ -7,7 +7,13 @@
 
 * [Información](servidores/informacion.md)
 * [Survival](servidores/survival/README.md)
-  * [Economía y trabajos](servidores/survival/economia-y-trabajos.md)
+  * [Introducción](servidores/survival/introduccion.md)
+  * [Economía](servidores/survival/economia-y-trabajos/README.md)
+    * [Trabajos](servidores/survival/economia-y-trabajos/trabajos.md)
+    * [Tiendas](servidores/survival/economia-y-trabajos/tiendas.md)
+    * [Mercados](servidores/survival/economia-y-trabajos/mercados.md)
+  * [Residencias y protecciones](servidores/survival/residencias-y-protecciones.md)
+  * [Ciudades y villas](servidores/survival/ciudades-y-villas.md)
 
 ## Reglas
 
@@ -18,7 +24,7 @@
 
 * [Rangos Administrativos](rangos/admin.md)
 * [Rangos VIP \(De paga\)](rangos/rangos-vip-de-paga.md)
-* [Jerarquía general](rangos/jerarquia.md)
+* [Rangos: Survival](rangos/rangos-survival.md)
 
 ## FAQ \| Preguntas Frecuentes <a id="faq"></a>
 

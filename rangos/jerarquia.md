@@ -1,2 +1,0 @@
-# Jerarquía general
-
