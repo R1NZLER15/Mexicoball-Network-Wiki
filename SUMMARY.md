@@ -32,6 +32,5 @@
 * [FAQ: Rangos VIP](faq/faq-rangos-vip.md)
 * [FAQ: Servidores](faq/faq-servidores/README.md)
   * [FAQ: Survival](faq/faq-servidores/faq-survival.md)
-  * [FAQ: Kingdoms](faq/faq-servidores/faq-kingdoms.md)
 * [FAQ: Minecraft Bedrock/MC:PE](faq/minecraft-bedrock-mc-pe.md)
 
