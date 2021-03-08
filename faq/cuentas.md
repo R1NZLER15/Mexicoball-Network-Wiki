@@ -10,7 +10,7 @@ Puesto que nuestro servidor acepta la entrada de cuentas **piratas**, no cuenta 
 
 ## ¿Cómo me registro?
 
-Al entrar por primera vez al servidor se te pedirá registrarte usando la siguiente sintaxis:
+Al entrar por primera vez al servidor se te pedirá registrarte usando la siguiente sintaxis en el chat \(pulsa la tecla **T** para abrir la barra de chat\):
 
 > /register **`contraseña`** **`email`**
 
