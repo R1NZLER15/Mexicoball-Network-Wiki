@@ -14,6 +14,7 @@
     * [Mercados](servidores/survival/economia-y-trabajos/mercados.md)
   * [Residencias y protecciones](servidores/survival/residencias-y-protecciones.md)
   * [Ciudades y villas](servidores/survival/ciudades-y-villas.md)
+  * [Mini-Jefes](servidores/survival/mini-jefes.md)
 
 ## Reglas
 
