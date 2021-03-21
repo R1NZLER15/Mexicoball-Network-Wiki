@@ -1,2 +1,0 @@
-# Residencias y protecciones
-
