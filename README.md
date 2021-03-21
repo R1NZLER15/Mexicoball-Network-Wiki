@@ -13,7 +13,7 @@ description: Índice de artículos de la wiki.
 * [Información](servidores/informacion.md)
 * [Survival](servidores/survival/)
   * [Introducción](servidores/survival/introduccion.md)
-  * [Economía](servidores/survival/economia-y-trabajos/)
+  * [Economía](servidores/survival/economia/)
   * [Residencias \[Terrenos\]](servidores/survival/residencias.md)
   * [Ciudades y Villas](servidores/survival/ciudades-y-villas.md)
   * [Mini-Jefes](servidores/survival/mini-jefes.md)
