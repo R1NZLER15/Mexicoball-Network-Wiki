@@ -2,6 +2,7 @@
 
 * [Índice](README.md)
 * [Enlaces e IP](enlaces-e-ip.md)
+* [Sitios de votos](votos.md)
 
 ## Servidores
 
@@ -33,5 +34,6 @@
 * [FAQ: Rangos VIP](faq/rangos-vip.md)
 * [FAQ: Servidores](faq/servidores/README.md)
   * [FAQ: Survival](faq/servidores/survival.md)
+* [FAQ: Votos](faq/votos.md)
 * [FAQ: Minecraft Bedrock/MC:PE](faq/minecraft-bedrock-mc-pe.md)
 
