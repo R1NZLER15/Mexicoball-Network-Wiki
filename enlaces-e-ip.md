@@ -20,7 +20,7 @@ description: Lista de enlaces del servidor
 
 ## Sitios de utilidad
 
-* Cambiar skin: mxball.net/skins
+* Cambiar skin: [mxball.net/skins](https://mxball.net/skins)
 
 ## [Sitios de votos](votos.md)
 
