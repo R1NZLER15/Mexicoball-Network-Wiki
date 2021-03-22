@@ -24,7 +24,7 @@ Después de registrarte deberás iniciar sesión usando el comando:
 
 > /login **`contraseña`**
 
-![](../.gitbook/assets/image%20%282%29.png)
+![Puedes usar /l como abreviaci&#xF3;n de /login](../.gitbook/assets/image%20%282%29.png)
 
 > ¿Tienes problemas para crear una contraseña?  
 > Te recomendamos usar este sitio para generar una nueva contraseña segura: [https://passwordsgenerator.net/](https://passwordsgenerator.net/)
