@@ -14,7 +14,8 @@
     * [Subastas](servidores/survival/economia/subastas.md)
     * [Tiendas](servidores/survival/economia/tiendas.md)
     * [Mercado](servidores/survival/economia/mercado.md)
-  * [Terrenos](servidores/survival/terrenos.md)
+  * [Terrenos](servidores/survival/terrenos/README.md)
+    * [Áreas](servidores/survival/terrenos/areas.md)
   * [Ciudades y Villas](servidores/survival/ciudades-y-villas.md)
   * [Mini-Jefes](servidores/survival/mini-jefes.md)
 

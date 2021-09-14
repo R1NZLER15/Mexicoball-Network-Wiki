@@ -14,7 +14,7 @@ description: Índice de artículos de la wiki.
 * [Survival](servidores/survival/)
   * [Introducción](servidores/survival/introduccion.md)
   * [Economía](servidores/survival/economia/)
-  * [Terrenos](servidores/survival/terrenos.md)
+  * [Terrenos](servidores/survival/terrenos/)
   * [Ciudades y Villas](servidores/survival/ciudades-y-villas.md)
   * [Mini-Jefes](servidores/survival/mini-jefes.md)
 
