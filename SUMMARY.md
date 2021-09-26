@@ -15,6 +15,7 @@
     * [Tiendas](servidores/survival/economia/tiendas.md)
     * [Mercado](servidores/survival/economia/mercado.md)
   * [Terrenos](servidores/survival/terrenos/README.md)
+    * [Guía rápida](servidores/survival/terrenos/guia-rapida.md)
     * [Áreas](servidores/survival/terrenos/areas.md)
   * [Ciudades y Villas](servidores/survival/ciudades-y-villas.md)
   * [Mini-Jefes](servidores/survival/mini-jefes.md)
